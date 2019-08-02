@@ -100,8 +100,8 @@
 
 Подаем питание на Raspberry, подключаемся через Wi-Fi и заходим на сайт. Выбираем нижнюю ссылку «GRI», где раз в 3 секунды обновляются данные.
 
-![web](../Helper_drone/a2.png)
+![web](../Helper_drone/blob/master/a2.png)
 
-![data](../Helper_drone/a1.png)
+![data](../Helper_drone/blob/master/a1.png)
 проект сделан на базе клевер-3, raspberry pi 3B+ с образом для коптера клевер, arduinio nano и датчиком MQ-2 MQ-135 и счетчика гейгера.
 Проект выполнили Артём Сыров и Тимофей Карпеев.
